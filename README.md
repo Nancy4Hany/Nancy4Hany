@@ -1,11 +1,7 @@
  ## Hey 👋, I'm Nancy!<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif" style="vertical-align:middle; position:absolute" width="68" height="68" />
-
-
-
- <iframe src="" width="71" height="71" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></iframe>  
   
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/OZAoaW0sEMAUgmdesG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img  src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy2.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen  ></img></div>  
   
 
 
