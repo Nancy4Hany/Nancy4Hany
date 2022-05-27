@@ -12,7 +12,7 @@ I’m a computer science student majoring in software development. I enjoy chall
 
 
 
-### give me a tinkle !<iframe src="https://giphy.com/embed/H4zuMszyEiULul0iq0" width="68" height="45" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></iframe>  
+### give me a tinkle !<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/telephone.gif" width="68" height="60" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></img>  
 <a href="https://github.com/https://github.com/Nancy4Hany" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -50,7 +50,7 @@ I’m a computer science student majoring in software development. I enjoy chall
 
 </td><td valign="top" width="50%">
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/hello%20world.gif" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>  
 
 
 </td></tr></table>  
