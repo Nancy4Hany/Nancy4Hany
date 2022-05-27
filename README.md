@@ -1,4 +1,4 @@
-## Hey 👋, I'm Nancy! <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/A9dZqpVpbLsju)" width="40" height="40" />
+## Hey 👋, I'm Nancy! <img src="https://giphy.com/embed/A9dZqpVpbLsju" width="40" height="40" />
 
 
 
