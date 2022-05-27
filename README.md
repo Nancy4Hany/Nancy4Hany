@@ -1,4 +1,4 @@
-## Hey 👋, I'm Nancy! [https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/A9dZqpVpbLsju)
+## Hey 👋, I'm Nancy! [n](https://giphy.com/embed/A9dZqpVpbLsju)
 
 
 
