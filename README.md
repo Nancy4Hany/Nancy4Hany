@@ -1,4 +1,4 @@
-## Hey 👋, I'm Nancy! <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/8y2dTK5wuPpgQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kateTEST-transparent-cat-gifs-8y2dTK5wuPpgQ">via GIPHY</a></p>
+## Hey 👋, I'm Nancy! <p><img align="right" src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif" width="500" height="320" /></p>
 
 
 
