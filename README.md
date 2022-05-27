@@ -1,8 +1,8 @@
-## Hey 👋, I'm Nancy! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+## Hey 👋, I'm Nancy! <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/A9dZqpVpbLsju)" width="40" height="40" />
 
 
 
- <iframe src="https://giphy.com/embed/A9dZqpVpbLsju" width="71" height="71" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></iframe>  
+ <iframe src="" width="71" height="71" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></iframe>  
   
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/OZAoaW0sEMAUgmdesG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
