@@ -1,4 +1,4 @@
- ## Hey 👋, I'm Nancy!<img align="right" src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif"  style="vertical-align:middle;margin:0px 50px" width="68" height="68" />
+ ## Hey 👋, I'm Nancy!<img align="right" src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif"  style="vertical-align:middle" width="68" height="68" />
 
 
 
