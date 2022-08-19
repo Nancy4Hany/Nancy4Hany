@@ -1,126 +1,110 @@
- ## Hey 👋, I'm Nancy!<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif" style="vertical-align:middle; position:absolute" width="68" height="68" align="left" />
-  
+<h1 align="center">
+Hi, Nancy Hany!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img  src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy2.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen align="right"  /></div>  </br>
-  
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+</p>
 
+```
 
-### Glad to see you here!  
-I’m a computer science student majoring in software development. I enjoy challenges & contributing to projects ❤️. I love working with people and computers to create the future 🌈 . I am very keen to learn new technologies ✨ .  My dream job is at a company where I can get as much experiences as possible.  
-  
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+```
+<hr>
+<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-
-
-### give me a tinkle !<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/telephone.gif" width="68" height="60" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></img>  
-<a href="https://github.com/https://github.com/Nancy4Hany" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://dev.to/nancy4hany" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/https://codepen.io/nancy4hany" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nancy-hanyhussein/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/nancy.hany.144/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmednageebmahmoud&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmednageebmahmoud&theme=monokai&utcOffset=8)
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
-- 🔭 I’m currently working on [Hurghada GRND hotel website](https://github.com/Nancy4Hany/Hurghada-GRND-hotel)  
-  
+##### 💪 Programming Languages
 
-- 🌱 I’m currently learning AngularJS, vueJS and unity  
-  
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d.svg?style=for-the-badge&logo=php&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
 
-- ❓ Ask me about anything related to software development   
-  
+##### 💪 Frameworks and Libraries
 
-- ⚡ Fun fact: I'm an artist !  
+<p>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2c292d.svg?style=for-the-badge&logo=pandas&logoColor=ffffff"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2c292d.svg?style=for-the-badge&logo=TensorFlow&logoColor=ffffff"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-2c292d?style=for-the-badge&logo=django&logoColor=ffffff"></a>
 
+</p>
 
-</td><td valign="top" width="50%">
+##### 💪 Databases and Cloud Hosting
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/hello%20world.gif" width="80%" height="80%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div>  
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-2c292d.svg?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-2c292d?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff"></a>
+</p>
 
+##### 💪 Software and Tools
 
-</td></tr></table>  
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-2c292d.svg?style=for-the-badge&logo=android-studio&logoColor=ffffff"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-2c292d?style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-2c292d.svg?style=for-the-badge&logo=google-colab&logoColor=ffffff"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-2c292d.svg?style=for-the-badge&logo=codepen&logoColor=ffffff"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-2c292d.svg?style=for-the-badge&logo=google%20sheets&logoColor=ffffff"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-2c292d.svg?style=for-the-badge&logo=Jupyter&logoColor=ffffff"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
+</p>
 
-<br/>  
+##### 💪 Workspace
+<p>
+    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-2c292d?style=for-the-badge&logo=apple&logoColor=ffffff"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-2c292d?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
+</p>
+<br>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+<p>
+  <a href="https://www.linkedin.com/in/ahmednageebmahmoud/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/AhmedNageebMahmoud/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:ahmed.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/c/AhmedNageebMahmoud1"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+  <a href="https://www.tiktok.com/@ahmednageebmahmoud"><img src="https://img.shields.io/badge/tiktok-000.svg?style=for-the-badge&logo=tiktok&logoColor=ffffff"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201025249400" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nancy4Hany&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancy4Hany&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-<!-- BLOG-POST-LIST:START -->  
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Nancy4Hany&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-<!-- ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
- -->
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+</p>
+<br>
+<h6 align="left" >
+   I <span style="color:red">❤</span> Open Source. 
+   <br>
+</h6>
