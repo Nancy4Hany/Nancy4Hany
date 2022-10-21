@@ -1,5 +1,5 @@
-## Hey 👋, I'm Nancy!<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif" style="vertical-align:middle; position:absolute" width="68" height="68" align="left" />
-  
+## Hey 👋, I'm Nancy!
+<!-- <img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy.gif" style="vertical-align:middle; position:absolute" width="68" height="68" align="left" /> -->
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img  src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/giphy2.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen align="right"  /></div>  </br>
   
