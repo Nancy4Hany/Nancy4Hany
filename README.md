@@ -35,7 +35,7 @@ I’m a computer science student majoring in software development. I enjoy chall
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Hurghada GRND hotel website](https://github.com/Nancy4Hany/Hurghada-GRND-hotel)  
+- 🔭 I’m currently working on [posty](https://github.com/Nancy4Hany/Posty)  
   
 
 - 🌱 I’m currently learning AngularJS, vueJS and unity  
