@@ -35,12 +35,12 @@ I’m a computer science student majoring in software development. I enjoy chall
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on 
-- [] [WorkBridge]([https://github.com/Nancy4Hany/Posty](https://github.com/Nancy4Hany/WorkBridge)) which's a hiring platform using Microservices Architecture
-- [] [a Messaging System]using .NET, WPF and MVC for the architecture ( project objectives are to apply the clean code and design patterns concepts )
+- 🔭 I’m currently working on  <br>
+:white_small_square: <a href="https://github.com/Nancy4Hany/WorkBridge">WorkBridge</a> which's a hiring platform using Microservices Architecture <br>
+:white_small_square: **a Messaging System** using .NET, WPF and MVC for the architecture ( project objectives are to apply the clean code and design patterns concepts )
   
 
-- 🌱 I’m currently learning AngularJS, vueJS and unity  
+- 🌱 I’m currently learning .NET, Spring Boot, Oracle Apex 
   
 
 - ❓ Ask me about anything related to software development   
