@@ -11,7 +11,9 @@ I’m a computer science student majoring in software development. I enjoy chall
 
 
 
-### give me a tinkle !<img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/telephone.gif" width="68" height="60" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></img>  
+### give me a tinkle ! :telephone_receiver:
+
+<!-- <img src="https://github.com/Nancy4Hany/Nancy4Hany/blob/main/telephone.gif" width="68" height="60" frameBorder="0" style="vertical-align:middle" class="giphy-embed" allowFullScreen></img>   -->
 <a href="https://github.com/https://github.com/Nancy4Hany" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
