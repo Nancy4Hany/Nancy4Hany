@@ -39,7 +39,7 @@ I’m a computer science student majoring in software development. I enjoy chall
 
 - 🔭 I’m currently working on  <br>
 :white_small_square: <a href="https://github.com/Nancy4Hany/WorkBridge">WorkBridge</a> which's a hiring platform using Microservices Architecture <br>
-:white_small_square: **a Messaging System** using .NET, WPF and MVC for the architecture ( project objectives are to apply the clean code and design patterns concepts )
+:white_small_square: <a href="https://github.com/Lojain45Mostafa/Discord-Clone">A messaging system</a> using .NET, WPF and MVC for the architecture ( project objectives are to apply the clean code and design patterns concepts )
   
 
 - 🌱 I’m currently learning .NET, Spring Boot, Oracle Apex 
